@@ -1,0 +1,8 @@
+How to use:
+
+1.copy libraries files in libvpu into /usr/lib
+
+2.cd rk_ffmpeg_2.6.2 and config linux_generate.sh with your own cross compile
+
+3.use ./linux_generate.sh to make ffmpeg. the default installation directory is
+out/ in current directory.
